@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
             firstNumber = null
         }
 
-        // Вычисление результата
+        
         buttonEquals.setOnClickListener { calculateResult() }
     }
 
